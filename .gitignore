@@ -13,13 +13,13 @@ test
 
 
 # Files
-# *.bat
+*.bat
 server.ico
 start.py
 
-# Build
-# build
-# dist
+Build
+build
+dist
 dist-
 dist_py38
 
