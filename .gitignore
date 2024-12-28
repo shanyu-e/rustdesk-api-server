@@ -13,7 +13,7 @@ test
 
 
 # Files
-*.bat
+# *.bat
 server.ico
 start.py
 
