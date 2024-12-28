@@ -18,8 +18,8 @@ server.ico
 start.py
 
 # Build
-build
-dist
+# build
+# dist
 dist-
 dist_py38
 
